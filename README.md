@@ -12,10 +12,9 @@ I build backend services and developer tooling, and I'm learning Rust and going 
 
 **Languages:** Java · JavaScript · Node.js · SQL · Rust *(learning)*
 **Backend:** Spring Boot · REST APIs · Design Patterns
-**Frontend:** React
 **Data:** MongoDB · SQL databases
 **Testing & Tools:** JUnit · Mockito · Git · Docker
-**Frontend (basics):** React
+**Frontend:** React
 
 ## 🌱 Currently
 
